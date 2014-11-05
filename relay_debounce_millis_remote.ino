@@ -1,3 +1,6 @@
+/* You will need to download the IRremote.h library from this github here 
+https://github.com/shirriff/Arduino-IRremote
+*/
 
 #include <IRremote.h>
 
